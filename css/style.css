@@ -38,5 +38,14 @@ body {
     text-align: center;
     color: white;
     margin: 1rem;
+}
+
+#header {
+    height: 50px;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+    margin: 1rem;
  }
  
